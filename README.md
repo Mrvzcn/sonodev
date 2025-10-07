@@ -23,12 +23,12 @@ HİÇ BİR ŞEKİLDE KÖTÜYE KULLANIM İÇİN TASARLANMAMIŞTIR !!!
 * Test arkadaşım Elif Nur GÜNAY'ın rızasıyla kendi bilgisayarında gerçekleştirilmiştir.
 ### ETİK KURALLAR VE YASAL UYARILAR
 * Siber güvenlik alanında etik, teknik beceriler kadar önemlidir. Bu proje hazırlanırken ve kullanılırken aşağıdaki ilkelere dikkat edilmelidir:
-#### 📝 Açık Rıza Olmadan Kullanım Yasaktır
+####  Açık Rıza Olmadan Kullanım Yasaktır
 * Başka kişilere ait cihazlarda veya ağlarda bu yazılımı çalıştırmak, açık rıza alınmadan log toplamak Türk Ceza Kanunu ve birçok ülkenin veri gizliliği yasaları kapsamında suç teşkil eder.
-#### 📚 Eğitim Odaklı Yaklaşım
+####  Eğitim Odaklı Yaklaşım
 * Proje yalnızca kendi bilgisayarınızda, güvenli bir test ortamında çalıştırılmalıdır.
 * Amaç, sistemlerin nasıl korunacağını öğrenmek olmalıdır.
-#### ⚖️ Yasal Sorumluluk Kullanıcıya Aittir
+####  Yasal Sorumluluk Kullanıcıya Aittir
 * Bu projenin yazarı, geliştiricisi veya paylaşımcısı, yazılımın kötüye kullanımından sorumlu değildir.
 ### GELİŞTİRİCİ / İLETİŞİM
 * MERVE ÖZCAN ( mrvzcn10@gmail.com )
